@@ -1,0 +1,66 @@
+{
+  "updatedAt": "2026-07-23T00:00:00Z",
+  "categories": [
+    {
+      "title": "Chat commands",
+      "commands": [
+        { "name": "!title", "description": "Change the stream title (mods only)" },
+        { "name": "!epic", "description": "Quick shout for the epic vibe" },
+        { "name": "!specs", "description": "Show the current setup details" },
+        { "name": "!tiktok", "description": "Share the TikTok link" },
+        { "name": "!sub", "description": "Share sub info and Prime support" },
+        { "name": "!clip", "description": "Create a highlight clip" },
+        { "name": "!amazon", "description": "Open the stream wishlist" },
+        { "name": "!play", "description": "Mods can queue Spotify playback" },
+        { "name": "!skip", "description": "Skip the current song" },
+        { "name": "!song", "description": "Show the current song" },
+        { "name": "!lumia", "description": "Share the Lumia affiliate link" },
+        { "name": "!discord", "description": "Share the Discord invite" },
+        { "name": "!yt", "description": "Share the YouTube link" },
+        { "name": "!tip", "description": "Share the tipping link" },
+        { "name": "!pickle", "description": "Chaos trigger" },
+        { "name": "!lurk", "description": "Show the lurk message" },
+        { "name": "!sr", "description": "Song request helper" },
+        { "name": "!so", "description": "Shoutout a viewer" }
+      ]
+    },
+    {
+      "title": "Chat bot commands",
+      "commands": [
+        { "name": "!song", "description": "Show the currently playing Spotify track" },
+        { "name": "!accountage", "description": "Check Twitch account age" },
+        { "name": "!setgame", "description": "Change the current category" },
+        { "name": "!settitle", "description": "Change the stream title on connected platforms" },
+        { "name": "!songrequest", "description": "Add a song to the Spotify queue" },
+        { "name": "!tip", "description": "Show the all-time donation total" },
+        { "name": "!permit", "description": "Allow a user to post links temporarily" },
+        { "name": "!lockdown", "description": "Enable shield mode and followers-only" },
+        { "name": "!unlock", "description": "Disable shield mode" },
+        { "name": "!watchtime", "description": "Show how long a viewer has been watching" },
+        { "name": "!so", "description": "Send a shoutout to a user" }
+      ]
+    },
+    {
+      "title": "Twitch points",
+      "commands": [
+        { "name": "copper-lights", "description": "Set a custom light color" },
+        { "name": "red", "description": "Quick red effect" },
+        { "name": "tts350", "description": "Send a TTS message" },
+        { "name": "ask-me-about-my-weiner", "description": "Chaos redemption" },
+        { "name": "thats-what-she-said", "description": "Quote trigger" },
+        { "name": "run-forest-run", "description": "Run meme effect" }
+      ]
+    },
+    {
+      "title": "Twitch extensions",
+      "commands": [
+        { "name": "im-tired-of-this-grandpa", "description": "Grandpa meme" },
+        { "name": "fakku", "description": "Fakku moment" },
+        { "name": "scarecrows-look", "description": "Scarecrow effect" },
+        { "name": "foxy-jumpscare-loud", "description": "Foxy jump scare" },
+        { "name": "please-stand-by-full-cycle", "description": "Loading chaos" },
+        { "name": "windows-10-blue-screen-of-death", "description": "Blue screen chaos" }
+      ]
+    }
+  ]
+}

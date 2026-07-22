@@ -1,0 +1,54 @@
+{
+  "before": [
+    {
+      "id": "LEdZm7C1vT7jjvpmKwXdT",
+      "on": true,
+      "type": "sendToWebhook",
+      "value": {
+        "message": "{\n  \"content\": \"<@&1254489439988748360> 🔴 KJ_AUSSIEFARMS IS LIVE NOW EVERYWHERE!\",\n  \"embeds\": [\n    {\n      \"title\": \"🔴 KJ_AUSSIEFARMS is LIVE!\",\n      \"description\": \"🎮 **Game:** {{twitch_category}}\\n\\n🟢 **Kick** → https://kick.com/kj_aussiefarms\\n🟣 **Twitch** → https://twitch.tv/kj_aussiefarms\\n🔴 **YouTube** → https://www.youtube.com/@kj_aussiefarms/live\\n⚫ **TikTok** → https://www.tiktok.com/@kj_aussiefarms/live\\n\\n💀 **Pick your platform & jump in before the chaos kicks off!**\",\n      \"color\": 16729301,\n      \"image\": {\n        \"url\": \"https://cdn.discordapp.com/attachments/1462325610620780699/1498656495116615700/ChatGPT_Image_Apr_28_2026_09_39_27_PM.png\"\n      },\n      \"thumbnail\": {\n        \"url\": \"https://cdn.discordapp.com/attachments/1462325610620780699/1498700794910998610/aussie_chatbot.png\"\n      },\n      \"footer\": {\n        \"text\": \"Powered by AUSSIE LEGEND BOT AU\",\n        \"icon_url\": \"https://cdn.discordapp.com/attachments/1462325610620780699/1498700794910998610/aussie_chatbot.png\"\n      }\n    }\n  ]\n}",
+        "value": "https://discord.com/api/webhooks/1396628013969445054/dtM9IGDE_Fy1Y5X6pRbch7Xo2Mwqg6Eri0rYQJ-CJdMDq_eit_6WDC-fRm8ClM9_Xuak",
+        "options": [],
+        "on": false,
+        "duration": 1000,
+        "voice": "",
+        "volume": 100,
+        "color": "",
+        "extra": "",
+        "chatas": "chatbot",
+        "shouldReply": false,
+        "waitForAudioToStop": true,
+        "waitForTtsToStop": true,
+        "useSystemTtsOverride": false,
+        "type": "",
+        "mode": "network"
+      },
+      "base": "lumiaActions"
+    },
+    {
+      "id": "LEdZm7C1vT7jjvpmKwXdT",
+      "on": true,
+      "type": "sendToWebhook",
+      "value": {
+        "message": "{\n  \"content\": \"TPK ASSIST PRO MANAGER IS 🔴 LIVE NOW EVERYWHERE!\",\n  \"embeds\": [\n    {\n      \"title\": \"🔴 KJ_AUSSIEFARMS is LIVE!\",\n      \"description\": \"🎮 **Game:** {{twitch_category}}\\n\\n🟢 **Kick** → https://kick.com/kj_aussiefarms\\n🟣 **Twitch** → https://twitch.tv/kj_aussiefarms\\n🔴 **YouTube** → https://www.youtube.com/@kj_aussiefarms/live\\n⚫ **TikTok** → https://www.tiktok.com/@kj_aussiefarms/live\\n\\n💀 **Pick your platform & jump in before the chaos kicks off!**\",\n      \"color\": 16729301,\n      \"image\": {\n        \"url\": \"https://cdn.discordapp.com/attachments/1462325610620780699/1498919268589240471/54d50bab-ffe1-4ca7-8b7b-5d389500caa7.png\"\n      },\n      \"thumbnail\": {\n        \"url\": \"https://cdn.discordapp.com/attachments/1462325610620780699/1498656495116615700/ChatGPT_Image_Apr_28_2026_09_39_27_PM.png?ex=69f69160&is=69f53fe0&hm=085cb6ccb0fa29f27dced21ea883f49693507dfcda663baa0ba28a602ca929bc&\"\n      },\n      \"footer\": {\n        \"text\": \"Powered by TPK Assist Pro 🚀\",\n        \"icon_url\": \"https://cdn.discordapp.com/attachments/1462325610620780699/1498734928811266168/pickle_bot.png?ex=69f6da6c&is=69f588ec&hm=25e31f9848a732374bc6bd00c1859d74d05e44972fd42b802e7bb024b0b5cb49&\"\n      }\n    }\n  ]\n}",
+        "value": "https://discord.com/api/webhooks/1476455209873178655/NeCXXGyKB-5xNAjAwDVe0Wn0arxn43L7j0ENEopDQdrVeO3T8pdSXqoFZxP97vOlh_CX",
+        "options": [],
+        "on": false,
+        "duration": 1000,
+        "voice": "",
+        "volume": 100,
+        "color": "",
+        "extra": "",
+        "chatas": "chatbot",
+        "shouldReply": false,
+        "waitForAudioToStop": true,
+        "waitForTtsToStop": true,
+        "useSystemTtsOverride": false,
+        "type": "",
+        "mode": "network"
+      },
+      "base": "lumiaActions"
+    }
+  ],
+  "after": [],
+  "waitForActions": false
+}
